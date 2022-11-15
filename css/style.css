@@ -12,6 +12,6 @@ nav li{
 }
 
 a.current{
-    color: sienna;
+    color: red;
     text-decoration: overline;
 }
