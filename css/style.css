@@ -1,0 +1,17 @@
+header, nav, main, footer{
+	margin: 10px 0;
+}
+
+nav li{
+	background-color: seagreen;
+	padding: 10px;
+	width: auto;
+	border: 1px solid black;
+	display: inline-block;
+	width: auto;
+}
+
+a.current{
+    color: sienna;
+    text-decoration: overline;
+}
